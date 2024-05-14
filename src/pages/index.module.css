@@ -10,6 +10,7 @@
     overflow: hidden;
     background-image: url('https://static.vecteezy.com/system/resources/previews/016/449/441/original/abstract-wave-lines-dynamic-flowing-colorful-light-isolated-on-black-background-illustration-design-vector.jpg'); /* Замените /path/to/your/image.jpg на путь к вашему изображению */
     background-color: rgba(0, 0, 0, 0.56);
+    opacity: 0.7;
     background-size: cover; /* Это обеспечит полное покрытие контейнера изображением */
     background-position: center; /* Центрирует изображение */
 }
