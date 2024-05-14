@@ -90,28 +90,28 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'OpenAI',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'ChatGPT',
+                href: 'https://chatgpt.com/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Innovations',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Hello GPT-4o',
+                href: 'https://openai.com/index/hello-gpt-4o/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'OpenAI API',
+                href: 'https://platform.openai.com/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Sora',
+                href: 'https://openai.com/sora/',
               },
             ],
           },
@@ -119,12 +119,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Artificial Intelligence (AI): What it is and why it matters | SAS',
+                href: 'https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html#:~:text=Artificial%20intelligence%20(AI)%20makes%20it,learning%20and%20natural%20language%20processing.',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Artificial Intelligence',
+                href: 'https://www.theverge.com/ai-artificial-intelligence',
               },
             ],
           },
