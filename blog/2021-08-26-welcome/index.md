@@ -4,22 +4,20 @@ title: Welcome
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
+**Inception and Early Strides (2015-2018)**
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+[OpenAI](https://openai.com/) was initially founded in 2015 by Sam Altman, Elon Musk, Ilya Sutskever and Greg Brockman 
+as a non-profit organization with the stated goal to “advance digital intelligence in the way 
+that is most likely to benefit humanity as a whole.” The company assembled a team of the best 
+researchers in the field of AI to pursue the goal of building AGI in a safe way.
 
-Simply add Markdown files (or folders) to the `blog` directory.
+The early years of OpenAI were marked with rapid experimentation. The company made significant progress 
+on research in deep learning and reinforcement learning, and released ‘OpenAI Gym’ in 2016, a toolkit for 
+developing and comparing reinforcement learning algorithms.
 
-Regular blog authors can be added to `authors.yml`.
+OpenAI showcased the capabilities of these reinforcement learning algorithms through its [‘OpenAI Five’ project](https://openai.com/index/openai-five/) 
+in 2018, which trained five independent AI agents to play a complex multiplayer online battle arena game called ‘Dota 2’. 
+Despite operating independently, these agents learned to work as a cohesive team to coordinate strategies within the game.
 
-The blog post date can be extracted from filenames, such as:
+![Docusaurus Plushie](./openAI5.png)
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
