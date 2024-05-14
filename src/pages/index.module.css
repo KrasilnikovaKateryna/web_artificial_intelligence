@@ -8,6 +8,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: image('https://t3.ftcdn.net/jpg/04/67/63/50/360_F_467635025_K6BylzSaC6A4yihsGckKsfgbpITPwdqm.jpg');
 }
 
 @media screen and (max-width: 996px) {
