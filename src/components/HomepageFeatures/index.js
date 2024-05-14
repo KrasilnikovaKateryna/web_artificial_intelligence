@@ -58,6 +58,7 @@ export default function HomepageFeatures() {
                 <div className="row">
                     <div className="col col--12">
                         <div className="text--center padding-horiz--md">
+                            <Heading as="h2">Why is artificial intelligence important?</Heading>
                             <p>
                                 This is an additional block of text that appears below the feature elements.
                                 You can use this space to provide more information or context about the features above.
