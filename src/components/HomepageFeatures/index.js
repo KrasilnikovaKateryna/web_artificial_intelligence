@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Machine Learning',
-    Svg: require('@site/static/img/machine-learning-01-svgrepo-com.svg').default,
+    Svg: require('@site/static/img/cloud-network-svgrepo-com.svg').default,
     description: (
       <>
           Machine learning becomes popular.
