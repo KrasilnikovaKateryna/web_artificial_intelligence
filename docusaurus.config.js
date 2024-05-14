@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Artificial Intelligence',
   tagline: 'The most important invention of mankind',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/openai-icon-2021x2048-4rpe5x7n.png',
 
   // Set the production url of your site here
   url: 'https://krasilnikovakateryna.github.io',
@@ -132,5 +132,7 @@ const config = {
       },
     }),
 };
+
+
 
 export default config;
