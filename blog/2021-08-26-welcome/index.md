@@ -1,8 +1,6 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: history
+title: History
 ---
 **Inception and Early Strides (2015-2018)**
 
@@ -19,5 +17,5 @@ OpenAI showcased the capabilities of these reinforcement learning algorithms thr
 in 2018, which trained five independent AI agents to play a complex multiplayer online battle arena game called ‘Dota 2’. 
 Despite operating independently, these agents learned to work as a cohesive team to coordinate strategies within the game.
 
-![Docusaurus Plushie](./openAI5.png)
+![OpenAI Five](./openAI5.png)
 
