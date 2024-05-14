@@ -76,7 +76,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'OpenAI',
+            label: 'Company',
           },
           {to: '/blog', label: 'History', position: 'left'},
         ],
