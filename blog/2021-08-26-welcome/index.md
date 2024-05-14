@@ -2,9 +2,9 @@
 slug: history
 title: History
 ---
-**Inception and Early Strides (2015-2018)**
+# Inception and Early Strides (2015-2018)
 
-[OpenAI](https://openai.com/) was initially founded in 2015 by Sam Altman, Elon Musk, Ilya Sutskever and Greg Brockman 
+[**OpenAI**](https://openai.com/) was initially founded in 2015 by Sam Altman, Elon Musk, Ilya Sutskever and Greg Brockman 
 as a non-profit organization with the stated goal to “advance digital intelligence in the way 
 that is most likely to benefit humanity as a whole.” The company assembled a team of the best 
 researchers in the field of AI to pursue the goal of building AGI in a safe way.
