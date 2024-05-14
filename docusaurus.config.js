@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://krasilnikovakateryna.github.io/artificial-intelligence/',
+  url: 'https://krasilnikovakateryna.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/artificial-intelligence/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'KrasilnikovaKateryna', // Usually your GitHub org/user name.
-  projectName: 'artificial-intelligence-web', // Usually your repo name.
+  projectName: 'artificial-intelligence', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
