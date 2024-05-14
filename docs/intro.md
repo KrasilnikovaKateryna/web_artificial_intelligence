@@ -2,46 +2,20 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# OpenAI products and releases
 
-Let's discover **Docusaurus in less than 5 minutes**.
+OpenAI has quite a few product offerings, such as the following:
 
-## Getting Started
+- ChatGPT: An AI chatbot that generates text and answers to user prompts and questions. It is trained on large data sets and simulates the experience of speaking with and listening to a human.
 
-Get started by **creating a new site**.
+- DALL-E 2: This is a platform that analyzes descriptions and prompts of images that users want and generates them as described. For example, “paint a cat in Surrealist style.”
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- Codex: Codex is like ChatGPT but for code. It’s trained on tons of code in different programming languages to simplify the coding process for developers.
 
-### What you'll need
+- Whisper: Whisper is an automatic speech recognition tool that’s trained on audio data in dozens of languages so that it can transcribe and translate speech.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- Scholar: A program that supports researchers and students on AI-related projects, and sometimes financial assistance.
 
-## Generate a new site
+- OpenAI Gym: Gym is a toolkit that provides a foundation for developing reinforcement learning algorithms.
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- OpenAI API: The developer platform is a suite of services, including the above, that helps build and deploy AI applications.
