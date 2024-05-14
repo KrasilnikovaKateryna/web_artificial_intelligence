@@ -8,7 +8,9 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  background-image: image('https://t3.ftcdn.net/jpg/04/67/63/50/360_F_467635025_K6BylzSaC6A4yihsGckKsfgbpITPwdqm.jpg');
+  background-image: url('static/img/360_F_467635025_K6BylzSaC6A4yihsGckKsfgbpITPwdqm.jpg'); /* Замените /path/to/your/image.jpg на путь к вашему изображению */
+  background-size: cover; /* Это обеспечит полное покрытие контейнера изображением */
+  background-position: center; /* Центрирует изображение */
 }
 
 @media screen and (max-width: 996px) {
